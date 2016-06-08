@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:34.164264
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:02
 #+TITLE: 黃檗斷際禪師宛陵錄
 #+PROPERTY: CBETA_ID T48n2012B
 #+PROPERTY: ID KR6q0088
